@@ -1,0 +1,27 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Gruvbox Light",
+    "description": "A KiCAD adoptation of the Gruvbox Light theme",
+    "description_full": "Gruvbox is a popular theme. Gruvbox all the things!",
+    "identifier": "com.github.hza2002.kicad-gruvbox-light-theme",
+    "type": "colortheme",
+    "author": {
+        "name": "Bill Hu",
+        "contact": {
+            "web": "https://nand.fun",
+            "mail": "hza2002@foxmail.com"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/hza2002/kicad-gruvbox-light-theme"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "stable",
+            "kicad_version": "6",
+            "download_url": "https://github.com/hza2002/kicad-gruvbox-light-theme/releases/download/v1.0/Gruvbox_Light_v1.0.zip"
+        }
+    ]
+}
